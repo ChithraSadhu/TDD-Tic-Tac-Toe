@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Basic rendering of the Game renders without crashing 1`] = `ShallowWrapper {}`;
